@@ -39,3 +39,7 @@ claude mcp add flow2api -- /path/to/flow2api-mcp/.venv/bin/python /path/to/flow2
 ```bash
 cd mcp && .venv/bin/python -m unittest
 ```
+
+## 许可证
+
+[MIT](LICENSE)
