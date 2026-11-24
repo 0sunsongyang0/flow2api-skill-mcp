@@ -1,0 +1,6 @@
+# 私密配置与本地环境，切勿提交
+settings.json
+**/settings.json
+.venv/
+__pycache__/
+*.pyc
